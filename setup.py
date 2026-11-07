@@ -19,8 +19,8 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='Your Name',
-    maintainer_email='your_email@example.com',
+    maintainer='Dakshesh',
+    maintainer_email='daksheshnankani1405@gmail.com',
     description='ROS 2 package for VLA-based robotic arm control',
     license='MIT',
     entry_points={
